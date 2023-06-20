@@ -1,4 +1,4 @@
-#ifndef main.h
+#ifndef holberton.h
 ##define main.h
 
 int _putchar(char c);
